@@ -1,0 +1,13 @@
+.calend {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+    padding: 15px 15px;
+    background-color: #F9C99C;
+    margin-top: 15px;
+
+}
+.first_image{
+    width: 50px;
+}

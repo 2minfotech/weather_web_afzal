@@ -1,0 +1,17 @@
+#wrapper{
+    width: 350px;
+  
+   
+}
+.Reminder{
+  padding-left: 80px;
+  padding-top: 10px;
+  font-size: 18px;
+}
+.arrow{
+    padding-top: 10px;
+    font-size: 20px;
+}
+.sss{
+    display: flex;
+}

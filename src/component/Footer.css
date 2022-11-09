@@ -1,0 +1,52 @@
+.temprature {
+    border-radius: 20px;
+    padding-top: 10px;
+    margin-left: 15px;
+    background-color: #FEC699;
+}
+
+.degre {
+    font-size: 15px;
+    text-align: center;
+    position: relative;
+    padding-top: 5px;
+}
+
+.imagess {
+    width: 100%;
+    height: auto;
+
+}
+
+.temprature-p {
+    margin: 1px;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.temprature img {
+    width: 45px;
+    border-radius: 50%;
+    padding-top: 5px;
+}
+
+.weather {
+    display: flex;
+    padding-top: 20px;
+    overflow-x: scroll;
+    padding-bottom: 15px;
+
+}
+
+.images-sun {
+    padding-left: 10px;
+
+    margin-top: 5px;
+}
+
+.first-image {
+    width: 50%;
+    height: auto;
+}

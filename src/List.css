@@ -1,0 +1,83 @@
+.cards {
+
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #FEE2CD;
+    padding-top: 15px;
+    margin: 15px 0px 10px 0px;
+}
+
+.disp {
+    display: flex;
+
+}
+
+.umbres {
+    width: 30px;
+    height: 10px;
+
+
+
+}
+
+.rain {
+    padding-left: 10px;
+    margin: 0px;
+    padding-top: 5px;
+
+}
+
+.centimeter {
+    margin-left: 80px;
+    padding-top: 5px;
+}
+
+.s {
+    width: 25px;
+    height: 25px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.wind {
+    padding-top: 2px;
+
+
+}
+
+.water {
+    padding-top: 5px;
+
+
+}
+
+.days {
+    display: flex;
+
+}
+
+.badge-p {
+    margin-right: 60px;
+    margin-left: 15px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    color: #BC7D51;
+}
+
+.icons {
+    font-size: 10px;
+    padding-left: 6px;
+    padding-top: 7px;
+    color: #BC7D51;
+}
+
+.alert{
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+  color: black;
+}
+
+.badge {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+}
